@@ -5,4 +5,4 @@ Designed page using following HTML structure elements like li, header, article, 
 
 Implemented product youtube videos by using bootstrap embed and model components.
 
-Technologies used: HTML, CSS, Bootstrap
+# Technologies used: HTML, CSS, Bootstrap
